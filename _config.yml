@@ -17,10 +17,10 @@ author:
   name: "Bayan Mahfoud"
   pronouns:
   bio: "Artificial Intelligence Student & Independent Researcher"
-  location:
+  location: "ٍSyria"
   employer:
   uri: "https://bayanmahfoud.github.io"
-  email:
+  email: "bayanmahfoud10@gmail.com"
 
   # Academic websites
   academia:
@@ -28,7 +28,7 @@ author:
   googlescholar:
   inspire-hep:
   impactstory:
-  orcid:
+  orcid: "https://orcid.org/0009-0001-2837-3322"
   semantic:
   ssrn:
   pubmed:
