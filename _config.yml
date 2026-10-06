@@ -17,7 +17,7 @@ author:
   name: "Bayan Mahfoud"
   pronouns:
   bio: "Artificial Intelligence Student & Independent Researcher"
-  location: "ٍSyria"
+  location: "Syria"
   employer:
   uri: "https://bayanmahfoud.github.io"
   email: "bayanmahfoud10@gmail.com"
@@ -145,6 +145,7 @@ social:
     - "https://github.com/BayanMahfoud"
     - "https://www.linkedin.com/in/bayan-m-mahfoud/"
     - "https://www.kaggle.com/aionstreet"
+    - "https://orcid.org/0009-0001-2837-3322"
     - "https://bayanmahfoud.github.io/"
 
 # Analytics
