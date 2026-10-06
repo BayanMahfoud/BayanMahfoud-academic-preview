@@ -7,9 +7,10 @@ title_separator: "-"
 name: &name "Bayan Mahfoud"
 description: &description "Bayan Mahfoud's academic and research portfolio"
 
-url: "https://bayanmahfoud-academic-preview.github.io"
-baseurl: ""
+url: "https://bayanmahfoud.github.io"
+baseurl: "/BayanMahfoud-academic-preview"
 repository: "BayanMahfoud/BayanMahfoud-academic-preview"
+
 
 # Site Author
 author:
