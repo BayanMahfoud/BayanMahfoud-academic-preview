@@ -17,6 +17,23 @@ I am currently at the literature-study and theory-development stage. I am studyi
 
 This website documents my learning process, literature notes, computational experiments, research questions, and future work. I distinguish clearly between established evidence, working hypotheses, computational results, and clinical claims.
 
+## Current Research Direction
+
+I am beginning a structured literature-based investigation into computational and neural mechanisms that may be relevant to disorders of consciousness.
+
+The long-term objective is to explore whether an adaptive intervention mechanism could be formulated to modulate brain-network dynamics associated with conscious states.
+
+The specific mechanism has not yet been defined. It will be developed only after studying the relevant neuroscience, clinical literature, existing interventions, mathematical models, and safety considerations.
+
+Current outputs will include:
+
+- Structured literature notes
+- Research questions and hypotheses
+- Computational experiments
+- Mathematical modelling exercises
+- Reproducible code
+- Documented limitations and negative results
+
 ## Research Interests
 
 - NeuroAI
@@ -31,6 +48,7 @@ This website documents my learning process, literature notes, computational expe
 - Spiking Neural Networks
 - Reproducible and Ethical Research
 
+  
 ## Research Approach
 
 I approach research through four stages:
@@ -58,6 +76,20 @@ I am currently strengthening my foundations in:
 - Research methodology, scientific writing, and reproducibility
 
 My current priority is not collecting certificates, but producing verifiable work: code that I understand, literature notes, reproducible experiments, and clearly documented research questions.
+
+## Research Status
+
+This work is currently in the foundational stage. I am not presenting a clinical treatment, a validated intervention, or a completed research result.
+
+The immediate goal is to understand the field deeply enough to formulate a precise, testable, and scientifically responsible research hypothesis.
+
+## Public Science Writing
+
+I also write accessible Arabic articles about artificial intelligence, neuroscience, consciousness, and emerging research questions.
+
+These articles are educational and exploratory. They are not substitutes for peer-reviewed research or clinical evidence.
+
+- [Could Artificial Intelligence Help Restore Consciousness in Patients with Disorders of Consciousness?](https://almaqala.blog/article/ADZ2Rh4BqFZpik5qFTGZ )
 
 ## Profiles
 
