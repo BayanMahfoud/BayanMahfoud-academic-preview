@@ -14,10 +14,10 @@ repository: "BayanMahfoud/BayanMahfoud-academic-preview"
 
 # Site Author
 author:
-  avatar: "profile.png"
+  avatar: "profile.jpg"
   name: "Bayan Mahfoud"
   pronouns:
-  bio: "Artificial Intelligence Student & Independent Researcher"
+  bio: "Computational Neuroscience & NeuroAI Student & Independent Researcher"
   location: "Syria"
   employer:
   uri: "https://bayanmahfoud.github.io"
