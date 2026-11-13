@@ -5,7 +5,7 @@ site_theme: "default"
 title: "Bayan Mahfoud"
 title_separator: "-"
 name: &name "Bayan Mahfoud"
-description: &description "Bayan Mahfoud's academic and research portfolio"
+description: &description "Personal academic website of Bayan Mahfoud, a fourth-year Artificial Intelligence student building a research foundation in NeuroAI, consciousness, and computational neuroscience."
 
 url: "https://bayanmahfoud.github.io"
 baseurl: "/BayanMahfoud-academic-preview"
@@ -17,12 +17,12 @@ author:
   avatar: "profile-new.jpg"
   name: "Bayan Mahfoud"
   pronouns:
-  bio: "AI Undergraduate Student | Computational Neuroscience & NeuroAI"
+  bio: "Fourth-year Artificial Intelligence student | Founder & Lead Researcher of MIND-B"
   location: "Syria"
   employer:
-  uri: "https://bayanmahfoud.github.io"
+  uri: "https://bayanmahfoud.github.io/BayanMahfoud-academic-preview/"
   email: "bayanmahfoud10@gmail.com"
-
+  
   # Academic websites
   academia:
   arxiv:
@@ -147,7 +147,8 @@ social:
     - "https://www.linkedin.com/in/bayan-m-mahfoud/"
     - "https://www.kaggle.com/aionstreet"
     - "https://orcid.org/0009-0001-2837-3322"
-    - "https://bayanmahfoud.github.io/"
+    - "https://mindb-qk5njhtw.manus.space/"
+    - "https://bayanmahfoud.github.io/BayanMahfoud-academic-preview/"
 
 # Analytics
 analytics:
