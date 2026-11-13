@@ -1,6 +1,3 @@
-# Navigation links shown in the website header.
-# The order here determines the order of the menu items.
-
 main:
 
   - title: "About"
@@ -12,14 +9,14 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Notes"
+  - title: "Notes & Writing"
     url: /notes/
+
+  - title: "MIND-B"
+    url: https://mindb-qk5njhtw.manus.space/
 
   - title: "GitHub"
     url: https://github.com/BayanMahfoud
 
   - title: "LinkedIn"
     url: https://www.linkedin.com/in/bayan-m-mahfoud/
-
-  - title: "Kaggle"
-    url: https://www.kaggle.com/aionstreet
